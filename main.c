@@ -3,7 +3,6 @@
  *
  *  Created on: Nov 7, 2018
  *      Author: iskandar
- https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array-set-3-worst-case-linear-time/
  */
 
 
